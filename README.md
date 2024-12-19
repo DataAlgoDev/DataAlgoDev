@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hey👋 , I am  Ajay <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+<h1 align="center">Hi there👋 , I am  Ajay <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
 
 
 <!-- <p align="center"><a href="https://Vaishnavikalkute.github.io"><img width="80%" alt="Hello, I'm Vaishnavi. I do open source!" src="./assets/header-img.png" /></a></p> -->
@@ -117,8 +117,8 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
-    <a target="_blank"href="https://www.linkedin.com/in/vaishnavi-kalkute"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:vaishnavikalkute5@gmail.com?subject=Hey%20Vaishnavi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://www.linkedin.com/in/narayananajay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:narayananajay09@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 </p>
